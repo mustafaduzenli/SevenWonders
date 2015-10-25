@@ -1,0 +1,11 @@
+{
+    "name": "Seven-Wonders",
+    "description": "Seven Wonders of World",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": { 
+            "express": "3.x",
+            "node-inspector": "0.7.x"
+    }
+    
+}
